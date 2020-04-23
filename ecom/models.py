@@ -1,8 +1,5 @@
 from django.db import models
 
-# Create your models here.
-from django.conf import settings
-import django.utils.safestring as safestring
 
 # Create your models here.
 
